@@ -1,2 +1,5 @@
 # Grainer
-Web page gives the user information about the product the company has to offer.
+<br>
+**I have made my first static web page "Grainer". This web page gives the user information about the product the company has to offer. If the user click the product button in the nav bar he/she can view list of grains along with the availability and price.**
+
+<img src="screenshot.png" height=550>
