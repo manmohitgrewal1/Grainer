@@ -1,0 +1,105 @@
+
+
+nav{
+  padding: 0px;
+}
+.navbar-nav{
+  /* display: block; */
+    position: absolute;
+      right: 0px;
+      padding: 1px 1px 1px 1px;
+      width: auto;
+      height: 100px;
+      /* background-color: black; */
+}
+.nav-item{
+  padding: 0px;
+  padding-top: 5px;
+  /* align-items: flex-end; */
+}
+
+.rounded{
+    padding: 50px;
+    height: 300px;
+    width: auto;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: auto;
+    height: 400px;
+}
+
+h1{
+    color: green;
+}
+
+blockquote{
+    margin-top: 10px;
+    padding-left:  150px;
+    padding-right: 150px;
+    font-style: italic;
+    font-family: monospace;
+}
+
+h4{
+    padding-top: 40px;
+    align-items: center;
+    font-style: normal;
+    padding-left: 10px;
+    margin-left: 20px;
+}
+
+.wheat_para{
+    align-items: center;
+    font-style: normal;
+    margin: 3px;
+    padding: 20px;
+    margin-left: 20px;
+}
+
+.rice_para{
+    align-items: center;
+    font-style: normal;
+    margin: 3px;
+    padding: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.footer{
+    height: 300px;
+    /* width: 100%; */
+    background-color: #8e918f;
+    color: #d7dbd8;
+    position: relative;
+}
+
+.footer .footer-bottom{
+    height: 50px;
+    width: 100%;
+    background-color: #484a48;
+    text-align: center;
+    bottom: 0px;
+    left: 0px;
+    padding-top: 20px;
+    position: absolute;
+}
+
+.footer .footer-content{
+    /* background-color: pink; */
+    width: 300px;
+  padding-left: 20px;
+  padding-top: 15px;
+    /* position: absolute; */
+}
+
+.footer .footer-content h2 {  color: green;}
+
+.footer .footer-content .about_comp{font-size: small;}
+
+.footer .footer-content div svg{ float: left;}
+
+.footer .footer-content div p{padding-left: 25px;}
